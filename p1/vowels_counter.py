@@ -6,7 +6,7 @@
 
 def main():
 	"""kk"""
-    str_ = raw_input()
+    str_ = input()
 	# the input string is in s
 	# remove pass and start your code here
     count_ = 0
