@@ -12,7 +12,7 @@ def main():
             if ord(tt_) <= ord(str_[ji_]):
                 tt_ = str_[ji_]
             else:
-            flag_ = 1
+                flag_ = 1
             ji_ += 1
         if len(tstr2_) > len(tstr_):
             tstr_ = tstr2_
