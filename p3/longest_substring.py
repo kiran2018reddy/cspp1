@@ -11,6 +11,7 @@ def main():
         while flag_ != 1 and ji_ != len(str_):
             if ord(tt_) <= ord(str_[ji_]):
                 tt_ = str_[ji_]
+                tstr2_ += str_[ji_]
             else:
                 flag_ = 1
             ji_ += 1
