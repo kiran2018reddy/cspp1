@@ -12,4 +12,4 @@ def main():
             cou_ = cou_ + 1
     print(cou_)
 if __name__ == "__main__":
-	main()
+    main()
