@@ -14,7 +14,9 @@ def main():
         elif numb % 5 == 0:
             print("Buzz")
         elif numb % 3 == 0 and numb % 5 == 0:
-            print("fizzbuzz")
+            print("fizz")
+        elif numb % 3 == 0 and numb % 5 == 0:
+            print("buzz")
     '''
     Read number from the input, store it in variable num.
     '''
