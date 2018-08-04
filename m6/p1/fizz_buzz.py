@@ -19,4 +19,4 @@ def main():
     Read number from the input, store it in variable num.
     '''
 if __name__ == "__main__":
-    main ()
+    main()
