@@ -8,7 +8,9 @@ def main():
     '''
     Read any number from the input, store it in variable int_input.
     '''
-    int_input = int(input())
+    int_ = int(input())
+    
+
 
 
 if __name__ == "__main__":
